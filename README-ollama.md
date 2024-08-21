@@ -8,8 +8,13 @@
 curl -fsSL https://ollama.com/install.sh | sh
 ollama serve
 ```
+### 2. Clone Git Repo
+```sh
+git clone https://github.com/jivaniyash/langchain-chat-assistant.git
+cd ./langchain-chat-assistant
+```
 
-### 2. Create & Activate Virtual Env
+### 3. Create & Activate Virtual Env
 Open a new terminal
 ```sh
 sudo apt install python3.11-venv
@@ -18,15 +23,10 @@ source ./.venv/bin/activate
 python3 -m pip install --upgrade pip
 ```
 
-### 3. Install Packages
+### 4. Install Packages
 ```sh
 pip install langchain-ollama langchain chainlit langchain_experimental
 ``` 
-
-### 4. Clone Git Repo
-```sh
-git clone https://github.com/jivaniyash/langchain-chat-assistant.git
-```
 
 ### 5. Download Model (if not exists inside model directory)
 ```sh
