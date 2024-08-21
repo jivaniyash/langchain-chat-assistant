@@ -38,4 +38,4 @@ chainlit run ./app/main_openai.py -w
 
 Please follow instructions if you want to run local LLM from [README-ollama.md](https://github.com/jivaniyash/langchain-chat-assistant/blob/main/README-ollama.md)
 
-Please look at the [blog post](https://dev.to/jivaniyash/langchain-chat-assistant-using-chainlit-app-2j5a)
+Please look at the [blog post](https://dev.to/jivaniyash/langchain-chat-assistant-using-chainlit-app-2j5a?utm_source=www.github.com)
