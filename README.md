@@ -1,5 +1,6 @@
 # Langchain - Gen AI - Assistant using OpenAI
 
+![](https://github.com/jivaniyash/langchain-chat-assistant/blob/main/images/image.jpg)
 ---
 ## Steps
 
